@@ -25,16 +25,17 @@
     "web-component-tester": "*",
     "test-fixture": "PolymerElements/test-fixture#^1.0.0",
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-input": "PolymerElements/iron-input#^1.0.0",
     "iron-pages": "PolymerElements/iron-pages#^1.0.0"
   },
   "_release": "0.9.9",
   "_resolution": {
     "type": "version",
     "tag": "v0.9.9",
-    "commit": "9ec582e294a7d75e725e046d7c27cc54190c363d"
+    "commit": "edfc7c7caef06aac0f24d62e4bc4ca1833b99156"
   },
-  "_source": "git://github.com/Compufreak345/excess-router.git",
+  "_source": "git://github.com/atotic/excess-router.git",
   "_target": "~0.9.9",
-  "_originalSource": "git://github.com/Compufreak345/excess-router",
+  "_originalSource": "git://github.com/atotic/excess-router",
   "_direct": true
 }
